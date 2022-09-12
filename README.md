@@ -6,6 +6,8 @@ This is an assignment for Software Design for Visual Environments
 * The answer to this puzzle is **I LOVE MOBILE PROGRAMMING USING JAVA**
 * [puzzlev4](java/com/jblearning/puzzlev4) folder contains all my Java files
 * [res](res) folder contains the images and xml files for this application
+* [MainActivity.java](java/com/jblearning/puzzlev4/MainActivity.java) handles **touches**, **swipes**, and **multiple taps** from users
+* [DynamicSizing.java](java/com/jblearning/puzzlev4/DynamicSizing.java) implements the `DynamicSizing` class so that the font size for all the puzzle pieces is always **optimal** when running on a device with **arbitrary** scree size 
 
 * There are **4** features in this application:
 
