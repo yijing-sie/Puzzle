@@ -4,6 +4,8 @@ This is an assignment for Software Design for Visual Environments
 
 * The goal is to detect and handle **touches**, **swipes**, and **multiple taps** from users when they are solving the puzzle in this application
 * The answer to this puzzle is **I LOVE MOBILE PROGRAMMING USING JAVA**
+* [puzzlev4](java/com/jblearning/puzzlev4) folder contains all my Java files
+* [res](res) folder contains the images and xml files for this application
 
 * There are **4** features in this application:
 
