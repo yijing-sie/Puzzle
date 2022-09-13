@@ -5,7 +5,7 @@ This is an assignment for Software Design for Visual Environments
 * The goal is to detect and handle **touches**, **swipes**, and **multiple taps** from users when they are solving the puzzle in this application
 * The answer to this puzzle is **I LOVE MOBILE PROGRAMMING USING JAVA**
 * [puzzlev4](java/com/jblearning/puzzlev4) folder contains all my Java files
-* [res](res) folder contains the images and XML files for this application
+* [res](res) folder contains the images and **XML** files for this application
 * [MainActivity.java](java/com/jblearning/puzzlev4/MainActivity.java) handles **touches**, **swipes**, and **multiple taps** from users
 * [DynamicSizing.java](java/com/jblearning/puzzlev4/DynamicSizing.java) implements the `DynamicSizing` class so that the font size for all the puzzle pieces is always **optimal** when running on a device with an **arbitrary** screen size 
 
