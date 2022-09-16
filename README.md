@@ -12,7 +12,7 @@ This is an assignment for Software Design for Visual Environments
 * There are **4** features in this application:
 
 1. The colors of all the puzzle pieces are randomly selected whenever users open the application.
-2. Users can click and drag each puzzle piece to swap their positions
+2. Users can **click** and **drag** each puzzle piece to swap their positions
 3. Users solve the puzzle when the puzzle pieces are in the order of **I LOVE MOBILE PROGRAMMING USING JAVA** from top to down, and then they cannot move the pieces anymore
 4. Users can double-tap the **MOBILE** puzzle piece after they solved the puzzle to change **MOBILE** to **ANDROID**
 
